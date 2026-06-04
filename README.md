@@ -1,5 +1,8 @@
 # Mutual Fund ETL
 
+![GitHub branch](https://img.shields.io/badge/branch-main-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Standalone Day 1 project for mutual fund dataset ingestion, live NAV fetching, and basic AMFI code validation.
 
 ## Start here
@@ -9,8 +12,8 @@ Standalone Day 1 project for mutual fund dataset ingestion, live NAV fetching, a
 
 ## Structure
 
-- `data/` â€” raw and processed inputs
-- `notebooks/` â€” starter exploration notebook
-- `reports/` â€” validation and audit outputs
-- `sql/` â€” reserved for future SQL work
-- `dashboard/` â€” reserved for visualization work
+- `data/` — raw and processed inputs
+- `notebooks/` — starter exploration notebook
+- `reports/` — validation and audit outputs
+- `sql/` — reserved for future SQL work
+- `dashboard/` — reserved for visualization work
