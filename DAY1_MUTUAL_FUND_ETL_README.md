@@ -35,6 +35,14 @@ What it does:
 - checks `fund_master` against `nav_history`
 - writes summary files into `reports/`
 
+## Run everything at once
+
+```powershell
+.\run_day1_etl.ps1
+```
+
+This runs the audit first and then fetches the live NAV snapshots into `data/raw/`.
+
 ## Fetch live NAV data
 
 ```bash
