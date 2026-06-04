@@ -1,19 +1,9 @@
-# Mutual Fund ETL
+# Bluestock
 
-![GitHub branch](https://img.shields.io/badge/branch-main-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+This repository now contains the Day 1 mutual fund ETL project under `bluestock/day1`.
 
-Standalone Day 1 project for mutual fund dataset ingestion, live NAV fetching, and basic AMFI code validation.
+## Day 1 project
 
-## Start here
-
-- Read `DAY1_MUTUAL_FUND_ETL_README.md` for setup and run instructions
-- Use `run_day1_etl.ps1` to run the full Day 1 flow in one command
-
-## Structure
-
-- `data/` — raw and processed inputs
-- `notebooks/` — starter exploration notebook
-- `reports/` — validation and audit outputs
-- `sql/` — reserved for future SQL work
-- `dashboard/` — reserved for visualization work
+- Source: `bluestock/day1/`
+- Quick start: `bluestock/day1/run_day1_etl.ps1`
+- Documentation: `bluestock/day1/DAY1_MUTUAL_FUND_ETL_README.md`
