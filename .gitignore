@@ -1,1 +1,7 @@
 .vercel
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.log
+*.db
+
+.vercel
