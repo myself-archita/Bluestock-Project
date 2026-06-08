@@ -1,0 +1,201 @@
+age_group,sip_amount,gender,state,city_tier
+18-25,4700,Male,Gujarat,T30
+18-25,7256,Female,Gujarat,B30
+18-25,15601,Male,West Bengal,B30
+18-25,5702,Male,Maharashtra,B30
+18-25,15933,Female,Delhi,T30
+18-25,6770,Female,Karnataka,B30
+18-25,15244,Male,Maharashtra,T30
+18-25,11867,Female,Delhi,T30
+18-25,9577,Female,Gujarat,T30
+18-25,13798,Female,West Bengal,T30
+18-25,18214,Female,Tamil Nadu,B30
+18-25,20729,Female,Maharashtra,T30
+18-25,17036,Female,Gujarat,T30
+18-25,14776,Female,Tamil Nadu,B30
+18-25,17052,Male,Tamil Nadu,B30
+18-25,4232,Female,Maharashtra,T30
+18-25,15371,Male,Maharashtra,B30
+18-25,4039,Male,Maharashtra,B30
+18-25,16894,Male,Gujarat,B30
+18-25,17420,Female,Karnataka,B30
+18-25,23867,Female,Gujarat,B30
+18-25,22283,Male,West Bengal,T30
+18-25,11586,Male,West Bengal,T30
+18-25,22056,Female,Maharashtra,T30
+18-25,10708,Female,Delhi,B30
+18-25,3917,Male,Tamil Nadu,T30
+18-25,10354,Male,West Bengal,B30
+18-25,5629,Female,Tamil Nadu,B30
+18-25,7290,Female,Delhi,T30
+18-25,20381,Male,Gujarat,T30
+18-25,4145,Female,Gujarat,B30
+18-25,15667,Male,Karnataka,B30
+18-25,4798,Male,Delhi,B30
+18-25,20981,Female,Gujarat,T30
+18-25,3299,Female,Maharashtra,T30
+18-25,12403,Female,Karnataka,B30
+18-25,14899,Male,West Bengal,B30
+18-25,16292,Female,Tamil Nadu,B30
+18-25,17630,Female,Gujarat,B30
+18-25,21955,Female,Karnataka,B30
+26-35,16813,Female,Gujarat,B30
+26-35,3750,Female,West Bengal,B30
+26-35,6521,Female,West Bengal,T30
+26-35,20514,Female,Maharashtra,B30
+26-35,22346,Female,Maharashtra,B30
+26-35,20998,Female,Karnataka,T30
+26-35,8892,Male,Karnataka,T30
+26-35,19222,Male,Delhi,T30
+26-35,14816,Male,Tamil Nadu,B30
+26-35,20445,Male,Gujarat,T30
+26-35,12119,Male,Tamil Nadu,B30
+26-35,2561,Male,Maharashtra,B30
+26-35,14009,Female,Tamil Nadu,T30
+26-35,6168,Male,Tamil Nadu,B30
+26-35,6383,Male,West Bengal,B30
+26-35,3890,Female,Gujarat,B30
+26-35,2954,Male,Gujarat,B30
+26-35,20983,Female,West Bengal,B30
+26-35,20797,Male,Karnataka,B30
+26-35,12250,Female,Gujarat,T30
+26-35,4179,Female,West Bengal,T30
+26-35,2354,Male,West Bengal,T30
+26-35,19678,Female,Karnataka,B30
+26-35,2635,Male,Delhi,B30
+26-35,8317,Male,Tamil Nadu,T30
+26-35,4265,Female,Delhi,B30
+26-35,2401,Female,Tamil Nadu,B30
+26-35,3547,Female,Delhi,B30
+26-35,6334,Male,Gujarat,B30
+26-35,11756,Male,Delhi,T30
+26-35,20051,Female,Delhi,B30
+26-35,4089,Female,Maharashtra,T30
+26-35,4500,Female,West Bengal,B30
+26-35,24699,Female,Tamil Nadu,T30
+26-35,12324,Female,Tamil Nadu,T30
+26-35,18449,Female,Maharashtra,T30
+26-35,23186,Female,West Bengal,T30
+26-35,4175,Female,Maharashtra,B30
+26-35,20096,Male,Karnataka,B30
+26-35,3285,Male,Tamil Nadu,T30
+36-45,3453,Female,Maharashtra,T30
+36-45,22402,Female,Karnataka,T30
+36-45,24822,Male,Karnataka,B30
+36-45,21490,Female,Delhi,T30
+36-45,7736,Male,Karnataka,T30
+36-45,9091,Male,Gujarat,B30
+36-45,19058,Male,Delhi,T30
+36-45,5036,Male,Maharashtra,T30
+36-45,5084,Female,Maharashtra,T30
+36-45,22694,Female,West Bengal,T30
+36-45,21451,Female,Maharashtra,T30
+36-45,2729,Female,Tamil Nadu,B30
+36-45,15918,Female,Delhi,T30
+36-45,14069,Female,Gujarat,B30
+36-45,22822,Male,Delhi,B30
+36-45,9296,Male,Maharashtra,B30
+36-45,1435,Male,Karnataka,T30
+36-45,18199,Female,Delhi,T30
+36-45,18598,Male,Karnataka,B30
+36-45,1114,Female,West Bengal,B30
+36-45,17703,Male,West Bengal,T30
+36-45,21771,Male,Tamil Nadu,T30
+36-45,22178,Male,Tamil Nadu,T30
+36-45,8009,Male,Karnataka,B30
+36-45,5945,Male,Karnataka,T30
+36-45,16657,Female,Gujarat,B30
+36-45,6752,Male,Maharashtra,B30
+36-45,20965,Male,Gujarat,T30
+36-45,12098,Female,Delhi,T30
+36-45,17048,Female,Delhi,B30
+36-45,24001,Female,Delhi,B30
+36-45,18034,Female,West Bengal,B30
+36-45,5890,Female,West Bengal,B30
+36-45,5256,Male,Gujarat,T30
+36-45,23076,Female,Tamil Nadu,T30
+36-45,13455,Male,West Bengal,T30
+36-45,5181,Male,Maharashtra,B30
+36-45,15262,Male,West Bengal,B30
+36-45,19551,Male,Maharashtra,T30
+36-45,13002,Female,Gujarat,B30
+46-55,6820,Male,West Bengal,B30
+46-55,18805,Male,West Bengal,T30
+46-55,24572,Male,Gujarat,T30
+46-55,17895,Female,West Bengal,B30
+46-55,7249,Male,Tamil Nadu,T30
+46-55,20863,Male,Maharashtra,B30
+46-55,15932,Male,Delhi,T30
+46-55,15881,Male,West Bengal,T30
+46-55,13025,Female,West Bengal,T30
+46-55,9122,Female,Karnataka,B30
+46-55,6077,Male,Gujarat,B30
+46-55,12651,Female,Maharashtra,B30
+46-55,23092,Female,Tamil Nadu,T30
+46-55,14320,Female,Gujarat,T30
+46-55,4784,Female,Gujarat,T30
+46-55,4954,Female,Delhi,T30
+46-55,13410,Male,Maharashtra,B30
+46-55,19700,Female,Maharashtra,B30
+46-55,4798,Female,Gujarat,T30
+46-55,13904,Male,Gujarat,B30
+46-55,21739,Female,West Bengal,B30
+46-55,10789,Male,Gujarat,T30
+46-55,8431,Female,Gujarat,B30
+46-55,14223,Female,West Bengal,B30
+46-55,20596,Male,Tamil Nadu,B30
+46-55,21672,Female,Karnataka,T30
+46-55,8680,Male,Karnataka,T30
+46-55,18401,Male,Tamil Nadu,T30
+46-55,2913,Male,Gujarat,B30
+46-55,6395,Male,Maharashtra,T30
+46-55,16301,Female,Maharashtra,T30
+46-55,2166,Male,Delhi,B30
+46-55,15879,Female,Maharashtra,B30
+46-55,21684,Female,Karnataka,T30
+46-55,6065,Female,Maharashtra,T30
+46-55,22424,Male,Maharashtra,B30
+46-55,10714,Female,Karnataka,B30
+46-55,23869,Female,Tamil Nadu,B30
+46-55,15073,Male,Maharashtra,B30
+46-55,22810,Female,Gujarat,B30
+56+,16432,Female,Maharashtra,T30
+56+,20035,Male,Tamil Nadu,B30
+56+,10455,Male,Maharashtra,B30
+56+,24738,Male,West Bengal,T30
+56+,6291,Female,Karnataka,B30
+56+,4934,Female,Delhi,T30
+56+,19824,Male,Gujarat,T30
+56+,19014,Female,Gujarat,T30
+56+,22569,Male,Delhi,T30
+56+,6561,Female,Gujarat,T30
+56+,23480,Female,West Bengal,T30
+56+,15250,Female,Delhi,T30
+56+,24710,Female,Gujarat,T30
+56+,7500,Male,West Bengal,T30
+56+,7200,Male,West Bengal,B30
+56+,21917,Male,Tamil Nadu,T30
+56+,23631,Female,Karnataka,B30
+56+,20082,Male,Gujarat,T30
+56+,13303,Female,Gujarat,T30
+56+,14820,Male,Delhi,T30
+56+,4572,Male,Karnataka,T30
+56+,10094,Female,Karnataka,B30
+56+,5435,Female,Tamil Nadu,T30
+56+,23968,Male,Maharashtra,B30
+56+,22190,Male,Gujarat,T30
+56+,6357,Male,Gujarat,T30
+56+,16584,Female,Maharashtra,T30
+56+,3563,Female,West Bengal,B30
+56+,6057,Male,Gujarat,T30
+56+,22602,Male,Maharashtra,B30
+56+,18381,Female,Tamil Nadu,B30
+56+,20720,Female,Karnataka,T30
+56+,16219,Female,Karnataka,T30
+56+,9532,Female,West Bengal,B30
+56+,24034,Male,Karnataka,B30
+56+,11266,Female,Gujarat,B30
+56+,6460,Female,Maharashtra,T30
+56+,19199,Male,Maharashtra,B30
+56+,12834,Female,Karnataka,T30
+56+,11272,Male,West Bengal,T30

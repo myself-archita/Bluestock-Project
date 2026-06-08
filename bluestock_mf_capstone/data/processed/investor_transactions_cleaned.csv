@@ -1,0 +1,121 @@
+date,transaction_type,amount,kyc_status,state,city
+2025-01-15,Lumpsum,5200,verified,Gujarat,Mumbai
+2025-02-15,Redemption,7756,pending,Gujarat,Coimbatore
+2025-03-15,SIP,16101,verified,West Bengal,Coimbatore
+2025-04-15,Lumpsum,6202,verified,Maharashtra,Coimbatore
+2025-05-15,Redemption,16433,pending,Delhi,Mumbai
+2025-06-15,SIP,7270,pending,Karnataka,Coimbatore
+2025-07-15,Lumpsum,15744,verified,Maharashtra,Mumbai
+2025-08-15,Redemption,12367,pending,Delhi,Mumbai
+2025-09-15,SIP,10077,pending,Gujarat,Mumbai
+2025-10-15,Lumpsum,14298,pending,West Bengal,Mumbai
+2025-11-15,Redemption,18714,pending,Tamil Nadu,Coimbatore
+2025-12-15,SIP,21229,pending,Maharashtra,Mumbai
+2025-01-15,Lumpsum,17536,pending,Gujarat,Mumbai
+2025-02-15,Redemption,15276,pending,Tamil Nadu,Coimbatore
+2025-03-15,SIP,17552,verified,Tamil Nadu,Coimbatore
+2025-04-15,Lumpsum,4732,pending,Maharashtra,Mumbai
+2025-05-15,Redemption,15871,verified,Maharashtra,Coimbatore
+2025-06-15,SIP,4539,verified,Maharashtra,Coimbatore
+2025-07-15,Lumpsum,17394,verified,Gujarat,Coimbatore
+2025-08-15,Redemption,17920,pending,Karnataka,Coimbatore
+2025-09-15,SIP,24367,pending,Gujarat,Coimbatore
+2025-10-15,Lumpsum,22783,verified,West Bengal,Mumbai
+2025-11-15,Redemption,12086,verified,West Bengal,Mumbai
+2025-12-15,SIP,22556,pending,Maharashtra,Mumbai
+2025-01-15,Lumpsum,11208,pending,Delhi,Coimbatore
+2025-02-15,Redemption,4417,verified,Tamil Nadu,Mumbai
+2025-03-15,SIP,10854,verified,West Bengal,Coimbatore
+2025-04-15,Lumpsum,6129,pending,Tamil Nadu,Coimbatore
+2025-05-15,Redemption,7790,pending,Delhi,Mumbai
+2025-06-15,SIP,20881,verified,Gujarat,Mumbai
+2025-07-15,Lumpsum,4645,pending,Gujarat,Coimbatore
+2025-08-15,Redemption,16167,verified,Karnataka,Coimbatore
+2025-09-15,SIP,5298,verified,Delhi,Coimbatore
+2025-10-15,Lumpsum,21481,pending,Gujarat,Mumbai
+2025-11-15,Redemption,3799,pending,Maharashtra,Mumbai
+2025-12-15,SIP,12903,pending,Karnataka,Coimbatore
+2025-01-15,Lumpsum,15399,verified,West Bengal,Coimbatore
+2025-02-15,Redemption,16792,pending,Tamil Nadu,Coimbatore
+2025-03-15,SIP,18130,pending,Gujarat,Coimbatore
+2025-04-15,Lumpsum,22455,pending,Karnataka,Coimbatore
+2025-05-15,Redemption,17313,pending,Gujarat,Coimbatore
+2025-06-15,SIP,4250,pending,West Bengal,Coimbatore
+2025-07-15,Lumpsum,7021,pending,West Bengal,Mumbai
+2025-08-15,Redemption,21014,pending,Maharashtra,Coimbatore
+2025-09-15,SIP,22846,pending,Maharashtra,Coimbatore
+2025-10-15,Lumpsum,21498,pending,Karnataka,Mumbai
+2025-11-15,Redemption,9392,verified,Karnataka,Mumbai
+2025-12-15,SIP,19722,verified,Delhi,Mumbai
+2025-01-15,Lumpsum,15316,verified,Tamil Nadu,Coimbatore
+2025-02-15,Redemption,20945,verified,Gujarat,Mumbai
+2025-03-15,SIP,12619,verified,Tamil Nadu,Coimbatore
+2025-04-15,Lumpsum,3061,verified,Maharashtra,Coimbatore
+2025-05-15,Redemption,14509,pending,Tamil Nadu,Mumbai
+2025-06-15,SIP,6668,verified,Tamil Nadu,Coimbatore
+2025-07-15,Lumpsum,6883,verified,West Bengal,Coimbatore
+2025-08-15,Redemption,4390,pending,Gujarat,Coimbatore
+2025-09-15,SIP,3454,verified,Gujarat,Coimbatore
+2025-10-15,Lumpsum,21483,pending,West Bengal,Coimbatore
+2025-11-15,Redemption,21297,verified,Karnataka,Coimbatore
+2025-12-15,SIP,12750,pending,Gujarat,Mumbai
+2025-01-15,Lumpsum,4679,pending,West Bengal,Mumbai
+2025-02-15,Redemption,2854,verified,West Bengal,Mumbai
+2025-03-15,SIP,20178,pending,Karnataka,Coimbatore
+2025-04-15,Lumpsum,3135,verified,Delhi,Coimbatore
+2025-05-15,Redemption,8817,verified,Tamil Nadu,Mumbai
+2025-06-15,SIP,4765,pending,Delhi,Coimbatore
+2025-07-15,Lumpsum,2901,pending,Tamil Nadu,Coimbatore
+2025-08-15,Redemption,4047,pending,Delhi,Coimbatore
+2025-09-15,SIP,6834,verified,Gujarat,Coimbatore
+2025-10-15,Lumpsum,12256,verified,Delhi,Mumbai
+2025-11-15,Redemption,20551,pending,Delhi,Coimbatore
+2025-12-15,SIP,4589,pending,Maharashtra,Mumbai
+2025-01-15,Lumpsum,5000,pending,West Bengal,Coimbatore
+2025-02-15,Redemption,25199,pending,Tamil Nadu,Mumbai
+2025-03-15,SIP,12824,pending,Tamil Nadu,Mumbai
+2025-04-15,Lumpsum,18949,pending,Maharashtra,Mumbai
+2025-05-15,Redemption,23686,pending,West Bengal,Mumbai
+2025-06-15,SIP,4675,pending,Maharashtra,Coimbatore
+2025-07-15,Lumpsum,20596,verified,Karnataka,Coimbatore
+2025-08-15,Redemption,3785,verified,Tamil Nadu,Mumbai
+2025-09-15,SIP,3953,pending,Maharashtra,Mumbai
+2025-10-15,Lumpsum,22902,pending,Karnataka,Mumbai
+2025-11-15,Redemption,25322,verified,Karnataka,Coimbatore
+2025-12-15,SIP,21990,pending,Delhi,Mumbai
+2025-01-15,Lumpsum,8236,verified,Karnataka,Mumbai
+2025-02-15,Redemption,9591,verified,Gujarat,Coimbatore
+2025-03-15,SIP,19558,verified,Delhi,Mumbai
+2025-04-15,Lumpsum,5536,verified,Maharashtra,Mumbai
+2025-05-15,Redemption,5584,pending,Maharashtra,Mumbai
+2025-06-15,SIP,23194,pending,West Bengal,Mumbai
+2025-07-15,Lumpsum,21951,pending,Maharashtra,Mumbai
+2025-08-15,Redemption,3229,pending,Tamil Nadu,Coimbatore
+2025-09-15,SIP,16418,pending,Delhi,Mumbai
+2025-10-15,Lumpsum,14569,pending,Gujarat,Coimbatore
+2025-11-15,Redemption,23322,verified,Delhi,Coimbatore
+2025-12-15,SIP,9796,verified,Maharashtra,Coimbatore
+2025-01-15,Lumpsum,1935,verified,Karnataka,Mumbai
+2025-02-15,Redemption,18699,pending,Delhi,Mumbai
+2025-03-15,SIP,19098,verified,Karnataka,Coimbatore
+2025-04-15,Lumpsum,1614,pending,West Bengal,Coimbatore
+2025-05-15,Redemption,18203,verified,West Bengal,Mumbai
+2025-06-15,SIP,22271,verified,Tamil Nadu,Mumbai
+2025-07-15,Lumpsum,22678,verified,Tamil Nadu,Mumbai
+2025-08-15,Redemption,8509,verified,Karnataka,Coimbatore
+2025-09-15,SIP,6445,verified,Karnataka,Mumbai
+2025-10-15,Lumpsum,17157,pending,Gujarat,Coimbatore
+2025-11-15,Redemption,7252,verified,Maharashtra,Coimbatore
+2025-12-15,SIP,21465,verified,Gujarat,Mumbai
+2025-01-15,Lumpsum,12598,pending,Delhi,Mumbai
+2025-02-15,Redemption,17548,pending,Delhi,Coimbatore
+2025-03-15,SIP,24501,pending,Delhi,Coimbatore
+2025-04-15,Lumpsum,18534,pending,West Bengal,Coimbatore
+2025-05-15,Redemption,6390,pending,West Bengal,Coimbatore
+2025-06-15,SIP,5756,verified,Gujarat,Mumbai
+2025-07-15,Lumpsum,23576,pending,Tamil Nadu,Mumbai
+2025-08-15,Redemption,13955,verified,West Bengal,Mumbai
+2025-09-15,SIP,5681,verified,Maharashtra,Coimbatore
+2025-10-15,Lumpsum,15762,verified,West Bengal,Coimbatore
+2025-11-15,Redemption,20051,verified,Maharashtra,Mumbai
+2025-12-15,SIP,13502,pending,Gujarat,Coimbatore
