@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+"""Generate performance analytics, charts, and summary exports."""
+
 import argparse
 import json
 from pathlib import Path

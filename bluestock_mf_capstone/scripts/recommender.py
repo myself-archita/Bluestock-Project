@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+"""Recommend funds based on risk appetite, VaR, CVaR, and Sharpe ratio."""
+
 import argparse
 import csv
 from pathlib import Path

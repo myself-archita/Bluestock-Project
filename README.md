@@ -1,48 +1,24 @@
-# Archita Guha Roy Portfolio
+# FairLens AI Prototype
 
-This repository contains the personal portfolio website for Archita Guha Roy, a B.Tech Computer Science student at KIIT University with interests in AI, robotics, and software systems.
+This workspace now presents **FairLens AI**, a prototype for the Solution Challenge problem statement **"Unbiased AI Decision"**.
 
-Live site:
-[https://myself-archita.github.io/personalPortfolio/](https://myself-archita.github.io/personalPortfolio/)
+## What the prototype shows
 
-## What's Inside
+- A polished front-end concept for detecting bias in automated decisions
+- A Google-AI-enabled solution narrative aligned to the prototype template
+- MVP screens for fairness auditing, Gemini explanations, and mitigation planning
+- Cloud deployment positioning using Firebase Hosting, Cloud Run, BigQuery, and Cloud Storage
 
-- A responsive single-page portfolio website
-- Sections for profile, skills, projects, education, certifications, and contact
-- LinkedIn, GitHub, and resume download links
-- Simple JavaScript for mobile navigation and scroll reveal effects
+## Core idea
 
-## Tech Stack
+FairLens AI helps teams inspect datasets and AI-driven decisions for hidden unfairness before they impact users in areas like hiring, lending, healthcare, admissions, and public services.
 
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
+## Files
 
-## Run Locally
+- `index.html` - the prototype experience
+- `style.css` - the visual system and layout
+- `script.js` - mobile navigation and reveal behavior
 
-If you want to run the website locally with Python:
+## Submission note
 
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://127.0.0.1:8000
-```
-
-## Project Files
-
-- `index.html` - main website structure
-- `style.css` - visual design and responsive layout
-- `script.js` - navigation and reveal animations
-- `Archita-Guha-Roy-Resume.pdf` - downloadable resume
-
-## Author
-
-Archita Guha Roy
-
-- LinkedIn: [https://www.linkedin.com/in/archita-guha-roy-b041213a9](https://www.linkedin.com/in/archita-guha-roy-b041213a9)
-- GitHub: [https://github.com/myself-archita](https://github.com/myself-archita)
+The official template requires cloud deployment and at least one Google AI model or service. This prototype includes **Gemini** in the architecture and solution workflow for fairness explanations and remediation guidance.

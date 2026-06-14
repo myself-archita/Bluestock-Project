@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+"""End-to-end ETL pipeline for the Bluestock mutual fund capstone."""
+
 import argparse
 import json
 import re

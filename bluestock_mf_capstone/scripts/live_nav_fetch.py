@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+"""Fetch live NAV snapshots for a small reference basket of schemes."""
+
 import argparse
 import json
 import re

@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+"""Compute core mutual fund performance metrics from cleaned NAV data."""
+
 import argparse
 import json
 from pathlib import Path
