@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+plotly
+streamlit
+fastapi
+uvicorn
+python-dotenv
+openpyxl
+pytest
+sqlalchemy
+pyyaml

@@ -1,0 +1,4 @@
+table_name,row_count,status
+companies,12,loaded
+financials,132,loaded
+financial_ratios,132,loaded

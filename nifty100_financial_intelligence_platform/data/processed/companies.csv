@@ -1,0 +1,13 @@
+ticker,company_name,sector,industry,is_bank
+COMP001,Company 1,IT,Software,0
+COMP002,Company 2,Banking,Private Bank,1
+COMP003,Company 3,FMCG,Consumer,0
+COMP004,Company 4,Auto,OEM,0
+COMP005,Company 5,IT,Software,0
+COMP006,Company 6,Banking,Private Bank,1
+COMP007,Company 7,FMCG,Consumer,0
+COMP008,Company 8,Auto,OEM,0
+COMP009,Company 9,IT,Software,0
+COMP010,Company 10,Banking,Private Bank,1
+COMP011,Company 11,FMCG,Consumer,0
+COMP012,Company 12,Auto,OEM,0
