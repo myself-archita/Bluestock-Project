@@ -1,0 +1,10 @@
+SELECT COUNT(*) AS company_count FROM companies;
+SELECT COUNT(*) AS ratio_rows FROM financial_ratios;
+SELECT ticker, COUNT(*) AS years_covered FROM financial_ratios GROUP BY ticker ORDER BY years_covered DESC;
+SELECT year, COUNT(*) AS rows_per_year FROM financial_ratios GROUP BY year ORDER BY year;
+SELECT COUNT(*) AS null_roe_rows FROM financial_ratios WHERE roe IS NULL;
+SELECT COUNT(*) AS null_de_rows FROM financial_ratios WHERE debt_equity IS NULL;
+SELECT ticker, MIN(year), MAX(year) FROM financial_ratios GROUP BY ticker;
+SELECT sector, COUNT(*) FROM companies GROUP BY sector;
+SELECT capital_allocation_class, COUNT(*) FROM financial_ratios GROUP BY capital_allocation_class;
+SELECT AVG(roe) AS avg_roe FROM financial_ratios;

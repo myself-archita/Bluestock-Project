@@ -1,0 +1,4 @@
+file_name,passed,failures,notes
+sample_financial_source,True,0,ok
+companies,True,0,ok
+financials,True,0,ok
