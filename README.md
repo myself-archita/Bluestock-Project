@@ -1,43 +1,30 @@
-# NIFTY 100 Financial Intelligence Platform
+# Mutual Fund ETL
 
-This submission is a compact, self-contained prototype built from the sprint brief.
+Standalone Day 1 project for mutual fund dataset ingestion, live NAV fetching, and basic AMFI code validation.
 
-## Included
+## Start here
 
-- ETL helpers for Excel loading and ticker/year normalisation
-- Data quality validation and SQLite schema/loader
-- Profitability, leverage, CAGR, cash flow, and peer percentile analytics
-- Screener engine with YAML-driven filters and scoring
-- FastAPI service and Streamlit dashboard entry point
-- Tests for the core normalisation and ratio logic
+- Read `DAY1_MUTUAL_FUND_ETL_README.md` for setup and run instructions
+- Use `run_day1_etl.ps1` to run the full Day 1 flow in one command
 
-## Run
+## Structure
 
-```bash
-python -m pip install -r requirements.txt
-python scripts/generate_sample_data.py
-python scripts/build_db.py
-streamlit run app.py
-```
+- `data/` — raw and processed inputs
+- `notebooks/` — starter exploration notebook
+- `reports/` — validation and audit outputs
+- `sql/` — reserved for future SQL work
+- `dashboard/` — reserved for visualization work
+- `dashboard/` — reserved for visualization work
 
-## API
-
-```bash
-uvicorn src.api.main:app --reload
-```
-
-## Notes
-
-The original brief refers to 92 companies and 12 source files. This package includes a reproducible scaffold plus synthetic sample generation so the project can be reviewed, run, and expanded without external dependencies.
 ## Sprint 4 dashboard
 
-Run the eight-screen Streamlit dashboard from the project directory:
+Run the eight-screen Streamlit dashboard:
 
 ```bash
 streamlit run src/dashboard/app.py
 ```
 
-Screens: Home (KPI overview and sector mix), Company Profile (multi-year financials), Screener (preset filters and CSV export), Peer Comparison (radar benchmark), Trend Analysis (metric overlays), Sector Analysis (company scatter and medians), Capital Allocation (treemap), and Annual Reports (report availability).
+Screens include Home, Company Profile, Screener with CSV export, Peer Comparison, Trend Analysis, Sector Analysis, Capital Allocation, and Annual Reports.
 
 Generate valuation outputs with:
 
@@ -45,4 +32,4 @@ Generate valuation outputs with:
 python -m src.analytics.valuation
 ```
 
-Outputs are written to `output/valuation_summary.xlsx` and `output/valuation_flags.csv`. The data layer caches database queries for 10 minutes and displays `N/A` for missing values so partial company histories remain usable.
+Outputs are written to `output/valuation_summary.xlsx` and `output/valuation_flags.csv`.
