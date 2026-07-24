@@ -33,3 +33,16 @@ python -m src.analytics.valuation
 ```
 
 Outputs are written to `output/valuation_summary.xlsx` and `output/valuation_flags.csv`.
+
+## Sprint 5 NLP, cash flow, and reports
+
+Generate the Sprint 5 artifacts with:
+
+```bash
+python -m src.nlp.parser
+python -m src.nlp.pros_cons_generator
+python -m src.analytics.cashflow_kpis
+python -m src.reports.tearsheet
+```
+
+The report modules create company tearsheets, sector reports, and the portfolio summary under `reports/`. The implementation preserves partial histories and uses `N/A`/fallback narrative text when optional source fields are unavailable.

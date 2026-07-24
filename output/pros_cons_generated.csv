@@ -1,0 +1,25 @@
+company_id,type,rule_id,text,confidence_pct
+COMP001,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+COMP001,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
+COMP002,pro,FALLBACK,Available financial history supports continued monitoring of operating quality.,61
+COMP002,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
+COMP003,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP003,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
+COMP004,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP004,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
+COMP005,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+COMP005,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
+COMP006,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,82
+COMP006,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,84
+COMP007,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP007,con,C1,Debt-to-equity ratio of 2.2 is elevated for a non-financial company and warrants monitoring,92
+COMP008,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP008,con,C1,Debt-to-equity ratio of 2.5 is elevated for a non-financial company and warrants monitoring,92
+COMP009,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP009,con,C1,Debt-to-equity ratio of 3.0 is elevated for a non-financial company and warrants monitoring,92
+COMP010,pro,FALLBACK,Available financial history supports continued monitoring of operating quality.,61
+COMP010,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,83
+COMP011,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP011,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
+COMP012,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+COMP012,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,80
