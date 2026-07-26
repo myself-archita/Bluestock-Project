@@ -1,0 +1,1 @@
+"""Document endpoint module."""

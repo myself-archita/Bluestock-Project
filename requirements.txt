@@ -15,3 +15,5 @@ openpyxl
 pytest
 pyyaml
 reportlab
+scikit-learn
+seaborn

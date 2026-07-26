@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.3",
+  "info": {"title": "Nifty 100 Financial Intelligence API", "version": "1.0.0"},
+  "servers": [{"url": "http://localhost:8000"}],
+  "paths": {
+    "/api/v1/health": {"get": {"summary": "Health check"}},
+    "/api/v1/companies": {"get": {"summary": "List and filter companies"}},
+    "/api/v1/companies/{ticker}": {"get": {"summary": "Company profile"}},
+    "/api/v1/companies/{ticker}/pl": {"get": {"summary": "P&L history"}},
+    "/api/v1/companies/{ticker}/bs": {"get": {"summary": "Balance sheet history"}},
+    "/api/v1/companies/{ticker}/cashflow": {"get": {"summary": "Cash flow history"}},
+    "/api/v1/companies/{ticker}/ratios": {"get": {"summary": "Computed ratios"}},
+    "/api/v1/companies/{ticker}/tearsheet": {"get": {"summary": "Download tearsheet"}},
+    "/api/v1/screener": {"get": {"summary": "Screen companies"}},
+    "/api/v1/sectors": {"get": {"summary": "Sector summaries"}},
+    "/api/v1/sectors/{sector}/companies": {"get": {"summary": "Companies in sector"}},
+    "/api/v1/peers/{group_name}": {"get": {"summary": "Peer group"}},
+    "/api/v1/companies/{ticker}/peers/compare": {"get": {"summary": "Peer radar comparison"}},
+    "/api/v1/market-cap/{ticker}": {"get": {"summary": "Valuation history"}},
+    "/api/v1/portfolio/stats": {"get": {"summary": "Portfolio statistics"}},
+    "/api/v1/companies/{ticker}/documents": {"get": {"summary": "Company documents"}}
+  }
+}

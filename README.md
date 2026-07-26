@@ -34,6 +34,17 @@ python -m src.analytics.valuation
 
 Outputs are written to `output/valuation_summary.xlsx` and `output/valuation_flags.csv`.
 
+## Sprint 6 API and clustering
+
+Install dependencies, then run the API with:
+
+```bash
+pip install -r requirements.txt
+uvicorn src.api.main:app --reload --port 8000
+```
+
+The API exposes 16 endpoints under `/api/v1`; interactive docs are available at `/docs`. Generate clustering artifacts with `python -c "from src.analytics.clustering import build_clusters, build_cluster_statistics; build_clusters(); build_cluster_statistics()"`.
+
 ## Sprint 5 NLP, cash flow, and reports
 
 Generate the Sprint 5 artifacts with:

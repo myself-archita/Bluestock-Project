@@ -1,0 +1,13 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+COMP005,0,High-Quality Compounders,0.7104243197255918
+COMP004,0,High-Quality Compounders,0.8600083203619915
+COMP006,3,Distressed or Turnaround,0.5247963466248027
+COMP007,2,Value Cyclicals,1.7190055179029367
+COMP008,4,Emerging Growth,1.475229465274367
+COMP001,2,Value Cyclicals,1.9559438694423568
+COMP003,1,Defensive Dividend Payers,1.5319943327227148
+COMP002,1,Defensive Dividend Payers,1.5319943327227146
+COMP011,3,Distressed or Turnaround,0.5247963466248026
+COMP010,0,High-Quality Compounders,0.5378918432306842
+COMP009,4,Emerging Growth,1.475229465274367
+COMP012,2,Value Cyclicals,1.353394533425056
